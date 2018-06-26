@@ -1,0 +1,9 @@
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\DasBoot\DasBoot\bin\Release\DasBoot.exe.config
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\DasBoot\DasBoot\bin\Release\DasBoot.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\DasBoot\DasBoot\bin\Release\DasBoot.pdb
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\DasBoot\DasBoot\obj\Release\DasBoot.csprojResolveAssemblyReference.cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\DasBoot\DasBoot\obj\Release\DasBoot.Form1.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\DasBoot\DasBoot\obj\Release\DasBoot.Properties.Resources.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\DasBoot\DasBoot\obj\Release\DasBoot.csproj.GenerateResource.Cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\DasBoot\DasBoot\obj\Release\DasBoot.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\DasBoot\DasBoot\obj\Release\DasBoot.pdb
